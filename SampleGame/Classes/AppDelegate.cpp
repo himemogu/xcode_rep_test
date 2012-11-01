@@ -15,7 +15,7 @@ USING_NS_CC;
 
 AppDelegate::AppDelegate()
 {
-
+    // test
 }
 
 AppDelegate::~AppDelegate()
